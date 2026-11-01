@@ -1,5 +1,4 @@
-
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-WEBSITE-URL/sitemap.xml
+Sitemap: https://rathour0000.github.io/funngro-website-revamp/sitemap.xml
